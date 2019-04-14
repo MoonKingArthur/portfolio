@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url("fiesta2.png");
+    background-image: url("fiesta11.jpg");
     background-color: #cccccc;
     background-repeat: no-repeat;
     background-size: 100%, 100%;
@@ -38,7 +38,7 @@ li {
 
 .navbar {
     width: 100%;
-    background-color: rgba(29, 101, 255, 0.5);
+    background-color: rgba(2, 14, 56, 0.651);
     height: 5em;
     box-shadow: 2px 0 5px rgba(100, 100, 100, .7);
 }
@@ -54,14 +54,15 @@ li img:hover {
 
 h1 {
     font-size: 5em;
-    color: white; 
-    margin-top: 1.5em;
-    margin-left: 36%;
-    text-shadow: 2px 2px 5px rgba(100, 100, 100, .7);
+    color: white;
+    opacity: 0.8; 
+    margin-top: 1.1em;
+    margin-left: 24%;
+    text-shadow: 2px 2px 5px rgba(00, 00, 00, .5);
 }
 
 h2{
-    margin-left: 36%;
+    margin-left: 24%;
     color: lightgray;
     opacity: .9;
     font-size: 1.5em;
